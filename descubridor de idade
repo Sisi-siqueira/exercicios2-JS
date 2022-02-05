@@ -1,0 +1,12 @@
+const anos_h='16'; //minha idade (no caso coloque a sua)
+let doi_1_anos=2; //os primeros dois anos caninos
+primeiros_anos =myAge -2
+let anos_iniciais*=4;    // os quatro primeiro anos
+
+//teste 
+console.log(anos_h); //minha idade humana
+console.log(anos_iniciais); //minha idade canina
+
+anosDog= 'primeiros_anos' + 'anos_iniciais';
+myNome= 'silvana'.tiLowerCase(); //meu nome em minusculo
+consoe.log(`Meu nome é ${myNome}. Tenho ${anos_h} anos em anos humanos, que é ${anosDog} anos em anos de cachorro.`}
